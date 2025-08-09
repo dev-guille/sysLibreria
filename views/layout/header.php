@@ -15,6 +15,7 @@
             <li><a href="index.php?action=crear_clientes">Crear Clientes</a></li>
             <li><a href="index.php?action=listar_libros">Listar Libros</a></li>
             <li><a href="">Crear Libros</a></li>
+            <li><a href="index.php?action=listar_pedidos">Pedidos</a></li>
         </ul>
     </nav>
     <main>
